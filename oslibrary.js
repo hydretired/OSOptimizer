@@ -1,7 +1,7 @@
 // Jquery ve Bootstrap Gereklidir
-// Bootstrap.css <head> içerisinde,
-// Jquery.js ve Bootstrap.js </body> etiketi kapatılmadan önce eklenmelidir.
-// Düzen aşağıdaki şekilde olmalıdır.
+// Bootstrap.css <head> iÃ§erisinde,
+// Jquery.js ve Bootstrap.js </body> etiketi kapatÄ±lmadan Ã¶nce eklenmelidir.
+// DÃ¼zen aÅŸaÄŸÄ±daki ÅŸekilde olmalÄ±dÄ±r.
 // <html>
 // <head>
 // <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"rel="stylesheet" />
