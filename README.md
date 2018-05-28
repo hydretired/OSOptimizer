@@ -26,6 +26,7 @@ Numerik değer verilmelidir.
 ```html
 dt-font="25"
 ```
+
 ### dt-width
 Numerik yada yüzdelik değer verilmelidir.
 
