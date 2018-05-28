@@ -180,6 +180,11 @@ $(document).ready(function (e) {
         $(v).css({ "background-image": img });
         $(v).removeAttr('dt-bg-image');
     });
+    $('[dt-bg-size]').each(function (e, v) {
+        var size = $(v).attr('dt-bg-size');
+        $(v).css({ "background-size": size });
+        $(v).removeAttr('dt-bg-size');
+    });
     // Color Settings - End
 
     //Grid Settings - Begin
