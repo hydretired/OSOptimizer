@@ -27,7 +27,7 @@ Numerik değer verilmelidir.
 dt-font="25"
 ```
 ### dt-width
-Numerik yada yüzdelik değer verilmelidir.
+Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
@@ -42,34 +42,34 @@ Herhangi bir değer vermeye gerek yoktur. Yazıldığı elementin içindeki yaz�
 Herhangi bir değer vermeye gerek yoktur. Yazıldığı elementin içindeki yazıyı sağa yaslar. 
 ***
 ### dt-padding 
-Tüm yönlerden padding verir.Numerik yada yüzdelik değer verilmelidir.
+Tüm yönlerden padding verir.Numerik ya da yüzdelik değer verilmelidir.
 **Örnek:**
 ```html
 dt-padding="25%" veya dt-padding="30"
 ```
 ### dt-pt 
-Üstten padding verir.Numerik yada yüzdelik değer verilmelidir.
+Üstten padding verir.Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
 dt-pt="25%" veya dt-pt="30"
 ```
 ### dt-pr 
-Sağdan padding verir.Numerik yada yüzdelik değer verilmelidir.
+Sağdan padding verir.Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
 dt-pr="25%" veya dt-pr="30"
 ```
 ### dt-pb 
-Aşağıdan padding verir.Numerik yada yüzdelik değer verilmelidir.
+Aşağıdan padding verir.Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
 dt-pb="25%" veya dt-pb="30"
 ```
 ### dt-pl 
-Soldan padding verir.Numerik yada yüzdelik değer verilmelidir.
+Soldan padding verir.Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
@@ -77,34 +77,34 @@ dt-pl="25%" veya dt-pl="30"
 ```
 ***
 ### dt-margin 
-Tüm yönlerden margin verir.Numerik yada yüzdelik değer verilmelidir.
+Tüm yönlerden margin verir.Numerik ya da yüzdelik değer verilmelidir.
 **Örnek:**
 ```html
 dt-padding="25%" veya dt-padding="30"
 ```
 ### dt-mt 
-Üstten margin verir.Numerik yada yüzdelik değer verilmelidir.
+Üstten margin verir.Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
 dt-mt="25%" veya dt-mt="30"
 ```
 ### dt-mr 
-Sağdan margin verir.Numerik yada yüzdelik değer verilmelidir.
+Sağdan margin verir.Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
 dt-mr="25%" veya dt-mr="30"
 ```
 ### dt-mb 
-Aşağıdan margin verir.Numerik yada yüzdelik değer verilmelidir.
+Aşağıdan margin verir.Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
 dt-mb="25%" veya dt-mb="30"
 ```
 ### dt-ml 
-Soldan margin verir.Numerik yada yüzdelik değer verilmelidir.
+Soldan margin verir.Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
@@ -154,7 +154,7 @@ Not:
 ```
 ***
 ### dt-radius
-Numerik yada yüzdelik değer verilmelidir.
+Numerik ya da yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
