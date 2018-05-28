@@ -46,4 +46,3 @@ dt-col1 -> Herhangi bir değer vermeye gerek yoktur. Bootstrap col-md-1 classın
 NOT: dt-col1 / dt-col12 arası tüm attributeler kullanılabilir.
 
 dt-radius -> Numerik yada yüzdelik değer verilmelidir. Örnek: dt-radius="50%" veya dt-radius="10"
-
