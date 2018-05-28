@@ -14,7 +14,7 @@
 // </body>
 // </html>
 
-$(document).ready(function (e) {
+$(document).ready(function () {
 
     // Font-Size Settings - Begin
     $('[dt-font]').each(function (e,v) {
