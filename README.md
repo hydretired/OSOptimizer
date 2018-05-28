@@ -3,6 +3,7 @@ Attributeler ile belli başlı bazı CSS düzenlemeleri sağlayan Jquery fonksiy
 
 Düzen aşağıdaki şekilde olmalıdır.
 
+```
 <html>
 <head>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"rel="stylesheet" />
@@ -14,7 +15,7 @@ CONTENT
 <script src="./oslibrary.js"></script>
 </body>
 </html>
-
+```
 
 Attribute Listesi ve İşlevleri :
 
