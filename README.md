@@ -17,7 +17,23 @@ CONTENT
 </html>
 ```
 
-Attribute Listesi ve İşlevleri :
+## Attribute Listesi ve İşlevleri :
+
+### dt-font
+Numerik değer verilmelidir.
+
+**Örnek:**
+```html
+dt-font="25"
+```
+
+### dt-width
+Numerik yada yüzdelik değer verilmelidir.
+
+**Örnek:**
+```html
+dt-width="25%" veya dt-width="200"
+```
 
 dt-font -> Numerik değer verilmelidir. Örnek: dt-font="25"
 dt-width -> Numerik yada yüzdelik değer verilmelidir. Örnek: dt-width="25%" veya dt-width="200"
