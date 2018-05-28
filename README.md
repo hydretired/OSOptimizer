@@ -26,7 +26,6 @@ Numerik değer verilmelidir.
 ```html
 dt-font="25"
 ```
-
 ### dt-width
 Numerik yada yüzdelik değer verilmelidir.
 
@@ -34,13 +33,54 @@ Numerik yada yüzdelik değer verilmelidir.
 ```html
 dt-width="25%" veya dt-width="200"
 ```
-### dt-width
-Numerik yada yüzdelik değer verilmelidir.
+***
+### dt-align-center
+Herhangi bir değer vermeye gerek yoktur. Yazıldığı elementin içindeki yazıyı ortalar. 
+### dt-align-left
+Herhangi bir değer vermeye gerek yoktur. Yazıldığı elementin içindeki yazıyı sola yaslar. 
+### dt-align-right 
+Herhangi bir değer vermeye gerek yoktur. Yazıldığı elementin içindeki yazıyı sağa yaslar. 
+***
+### dt-padding 
+Tüm yönlerden padding verir.Numerik yada yüzdelik değer verilmelidir.
+**Örnek:**
+```html
+dt-padding="25%" veya dt-padding="30"
+```
+### dt-pt 
+Üstten padding verir.Numerik yada yüzdelik değer verilmelidir.
 
 **Örnek:**
 ```html
-dt-width="25%" veya dt-width="200"
+dt-pt="25%" veya dt-pt="30"
 ```
+### dt-pr 
+Sağdan padding verir.Numerik yada yüzdelik değer verilmelidir.
+
+**Örnek:**
+```html
+dt-pr="25%" veya dt-pr="30"
+```
+### dt-pb 
+Aşağıdan padding verir.Numerik yada yüzdelik değer verilmelidir.
+
+**Örnek:**
+```html
+dt-pb="25%" veya dt-pb="30"
+```
+### dt-pl 
+Soldan padding verir.Numerik yada yüzdelik değer verilmelidir.
+
+**Örnek:**
+```html
+dt-pl="25%" veya dt-pl="30"
+```
+
+
+
+
+
+
 dt-font -> Numerik değer verilmelidir. Örnek: dt-font="25"
 dt-width -> Numerik yada yüzdelik değer verilmelidir. Örnek: dt-width="25%" veya dt-width="200"
 
